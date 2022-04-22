@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  site:
+   build: .
+   labels:
+    traefik.enable: true 
+    traefik.http.routers.wwww.rule: "Host('www.thundertech.com.br')" 
+   ports:
+    - 8080:80
+   volumes:
+    - ./src:/usr/share/nginx/html
