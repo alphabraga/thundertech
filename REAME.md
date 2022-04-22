@@ -1,5 +1,5 @@
 # Site da Thundertech
-Codigo fonte do site da Thundertech [wwww.thundertech.com.br](wwww.thundertech.com.br).
+Codigo fonte do site da Thundertech [wwww.thundertech.com.br](https://wwww.thundertech.com.br).
 
 ## Descrição
 
